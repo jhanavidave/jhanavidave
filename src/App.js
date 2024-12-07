@@ -1,4 +1,4 @@
-import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
+import { HashRouter, NavLink, Route, Routes } from 'react-router-dom';
 import Aboutme from './aboutme';
 import Achievements from './achievements';
 import Home from './App';
@@ -11,7 +11,7 @@ import Resume from './resume';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App" id='div1'>
         <h1>JHANAVI DAVE</h1>
         <hr />
@@ -40,7 +40,7 @@ function App() {
           <Route path='/achievements' element={<Achievements />} className="route-style" />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
