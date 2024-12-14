@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JhanaviDave/static/css/main.ec338297.css",
+    "main.js": "/JhanaviDave/static/js/main.8ec264bf.js",
+    "static/js/453.ed3810f9.chunk.js": "/JhanaviDave/static/js/453.ed3810f9.chunk.js",
+    "static/media/bachelors.jpg": "/JhanaviDave/static/media/bachelors.d4c652eb004b5f763950.jpg",
+    "static/media/masters.jpg": "/JhanaviDave/static/media/masters.2b2eb761f5a678a4f9ef.jpg",
+    "static/media/Jhanavi Dave Resume.pdf": "/JhanaviDave/static/media/Jhanavi Dave Resume.265977dd57474b4b68af.pdf",
+    "static/media/meta.png": "/JhanaviDave/static/media/meta.83bdac240925c2a19ea1.png",
+    "static/media/instagram.jpg": "/JhanaviDave/static/media/instagram.accf96e8c535099ea5a7.jpg",
+    "static/media/leetcode.png": "/JhanaviDave/static/media/leetcode.27b5f46819c01aeb6947.png",
+    "index.html": "/JhanaviDave/index.html",
+    "main.ec338297.css.map": "/JhanaviDave/static/css/main.ec338297.css.map",
+    "main.8ec264bf.js.map": "/JhanaviDave/static/js/main.8ec264bf.js.map",
+    "453.ed3810f9.chunk.js.map": "/JhanaviDave/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec338297.css",
+    "static/js/main.8ec264bf.js"
+  ]
+}
